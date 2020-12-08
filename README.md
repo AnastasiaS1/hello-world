@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, I'm Nastya! I'm here to start learning SQL)
